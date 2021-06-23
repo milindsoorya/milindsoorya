@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.site/
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to properly return your data from image.onload function](https://milindsoorya.site/blogs/how-to-properly-return-your-data-from-image-onload-function)
-- [Tips For Using Async/Await - Write Better JavaScript!](https://milindsoorya.site/blogs/tips-for-using-async-await-write-better-java-script)
-- [Convert your website into a  PWA in 8 simple steps | Next.js | PWA Series PART-2](https://milindsoorya.site/blogs/convert-your-website-into-a-pwa-in-8-simple-steps-next-js-pwa-series-part-2)
-- [Introduction to PWA | Next.js | PWA Series PART-1](https://milindsoorya.site/blogs/introduction-to-pwa-next-js-pwa-series-part-1)
-- [Create a React drag and drop file upload component from scratch 🥊](https://milindsoorya.site/blogs/create-a-react-drag-and-drop-file-upload-component-from-scratch)
+- [How to properly return your data from image.onload function](https://milindsoorya.site/blog/how-to-properly-return-your-data-from-image-onload-function)
+- [Tips For Using Async/Await - Write Better JavaScript!](https://milindsoorya.site/blog/tips-for-using-async-await-write-better-java-script)
+- [Convert your website into a  PWA in 8 simple steps | Next.js | PWA Series PART-2](https://milindsoorya.site/blog/convert-your-website-into-a-pwa-in-8-simple-steps-next-js-pwa-series-part-2)
+- [Introduction to PWA | Next.js | PWA Series PART-1](https://milindsoorya.site/blog/introduction-to-pwa-next-js-pwa-series-part-1)
+- [8 underrated git commands every programmer should know (not the usual pull, push, add, commit)](https://milindsoorya.site/blog/8-underrated-git-commands-every-programmer-should-know-not-the-usual-pull-push-add-commit)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
