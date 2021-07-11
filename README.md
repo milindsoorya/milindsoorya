@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.site/
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Redis to make your website 30-40% faster](https://milindsoorya.site/blog/redis-crash-course)
 - [How to add Next.js 11 image component to your website](https://milindsoorya.site/blog/how-to-add-nextjs-image-component-to-your-website)
 - [How to properly return your data from image.onload function](https://milindsoorya.site/blog/how-to-properly-return-your-data-from-image-onload-function)
 - [Tips For Using Async/Await - Write Better JavaScript!](https://milindsoorya.site/blog/tips-for-using-async-await-write-better-java-script)
 - [Convert your website into a  PWA in 8 simple steps | Next.js | PWA Series PART-2](https://milindsoorya.site/blog/convert-your-website-into-a-pwa-in-8-simple-steps-next-js-pwa-series-part-2)
-- [Introduction to PWA | Next.js | PWA Series PART-1](https://milindsoorya.site/blog/introduction-to-pwa-next-js-pwa-series-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
