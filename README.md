@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.site/
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Set Up Jupyter Notebook with Python 3 on Ubuntu 20.04](https://milindsoorya.site/blog/how-to-Set-up-jupyter-notebook-with-python-3-on-ubuntu-20.04)
 - [Add ellipses to overflowing text in CSS](https://milindsoorya.site/blog/ellipses-to-overflowing-text)
 - [Using Redis to make your website 30-40% faster](https://milindsoorya.site/blog/redis-crash-course)
 - [How to add Next.js 11 image component to your website](https://milindsoorya.site/blog/how-to-add-nextjs-image-component-to-your-website)
 - [How to properly return your data from image.onload function](https://milindsoorya.site/blog/how-to-properly-return-your-data-from-image-onload-function)
-- [Tips For Using Async/Await - Write Better JavaScript!](https://milindsoorya.site/blog/tips-for-using-async-await-write-better-java-script)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
