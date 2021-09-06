@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.site/
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Filter in PostgreSQL](https://milindsoorya.site/blog/how-to-use-filter-in-postgresql)
 - [How to use python virtual environment with conda](https://milindsoorya.site/blog/how-to-use-virtual-environment-with-conda)
 - [How To Set Up Jupyter Notebook on Ubuntu](https://milindsoorya.site/blog/how-to-Set-up-jupyter-notebook-with-python-3-on-ubuntu-20.04)
 - [Add ellipses to overflowing text in CSS](https://milindsoorya.site/blog/ellipses-to-overflowing-text)
 - [Using Redis to make your website 30-40% faster](https://milindsoorya.site/blog/redis-crash-course)
-- [How to add Next.js 11 image component to your website](https://milindsoorya.site/blog/how-to-add-nextjs-image-component-to-your-website)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
