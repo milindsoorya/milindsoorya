@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.site/
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Spam Classifier in python](https://milindsoorya.site/blog/build-a-spam-classifier-in-python)
 - [Introduction to Word Frequencies in NLP](https://milindsoorya.site/blog/introduction-to-word-frequencies-in-nlp)
 - [Mushroom dataset analysis and classification in python](https://milindsoorya.site/blog/mushroom-dataset-analysis-and-classification-python)
 - [How to Use Filter in PostgreSQL](https://milindsoorya.site/blog/how-to-use-filter-in-postgresql)
 - [How to use python virtual environment with conda](https://milindsoorya.site/blog/how-to-use-virtual-environment-with-conda)
-- [How To Set Up Jupyter Notebook on Ubuntu](https://milindsoorya.site/blog/how-to-Set-up-jupyter-notebook-with-python-3-on-ubuntu-20.04)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
