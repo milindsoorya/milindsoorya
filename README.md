@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.site/
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate Random Strings and strong Passwords in Python](https://milindsoorya.site/blog/generate-cryptographically-safe-passwords-with-python)
-- [Build a Spam Classifier in python](https://milindsoorya.site/blog/build-a-spam-classifier-in-python)
-- [Introduction to Word Frequencies in NLP](https://milindsoorya.site/blog/introduction-to-word-frequencies-in-nlp)
+- [Create Random String and strong Passwords in Python in 4 lines of code](https://milindsoorya.site/blog/generate-cryptographically-safe-passwords-with-python)
+- [How to build a Spam Classifier with 6 classifiers in python and sklearn](https://milindsoorya.site/blog/build-a-spam-classifier-in-python)
+- [Introduction to Word Frequency in NLP using python](https://milindsoorya.site/blog/introduction-to-word-frequencies-in-nlp)
 - [Mushroom dataset analysis and classification in python](https://milindsoorya.site/blog/mushroom-dataset-analysis-and-classification-python)
-- [How to Use Filter in PostgreSQL](https://milindsoorya.site/blog/how-to-use-filter-in-postgresql)
+- [How to Use Filter in PostgreSQL with example](https://milindsoorya.site/blog/how-to-use-filter-in-postgresql)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
