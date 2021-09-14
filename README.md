@@ -15,7 +15,7 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.site/
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate cryptographically safe passwords with Python in 4 lines of code.](https://milindsoorya.site/blog/generate-cryptographically-safe-passwords-with-python)
+- [Generate Random Strings and strong Passwords in Python](https://milindsoorya.site/blog/generate-cryptographically-safe-passwords-with-python)
 - [Build a Spam Classifier in python](https://milindsoorya.site/blog/build-a-spam-classifier-in-python)
 - [Introduction to Word Frequencies in NLP](https://milindsoorya.site/blog/introduction-to-word-frequencies-in-nlp)
 - [Mushroom dataset analysis and classification in python](https://milindsoorya.site/blog/mushroom-dataset-analysis-and-classification-python)
