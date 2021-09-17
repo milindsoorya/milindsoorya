@@ -18,7 +18,7 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.site/
 - [Mnist handwritten digit classification using tensorflow](https://milindsoorya.site/blog/handwritten-digits-classification)
 - [The ultimate guide to confusion matrix in machine learning](https://milindsoorya.site/blog/confusion-matrix-in-machine-learning)
 - [Create Random String and strong Passwords in Python in 4 lines of code](https://milindsoorya.site/blog/generate-cryptographically-safe-passwords-with-python)
-- [How to build a Spam Classifier with 6 classifiers in python and sklearn](https://milindsoorya.site/blog/build-a-spam-classifier-in-python)
+- [How to build a Spam Classifier in python and sklearn](https://milindsoorya.site/blog/build-a-spam-classifier-in-python)
 - [Introduction to Word Frequency in NLP using python](https://milindsoorya.site/blog/introduction-to-word-frequencies-in-nlp)
 <!-- BLOG-POST-LIST:END -->
 
