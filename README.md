@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.site/
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mnist handwritten digit classification using CNN](https://milindsoorya.site/blog/handwritten-digit-classification-using-cnn)
 - [Sentiment analysis flask web app using python and NLTK](https://milindsoorya.site/blog/sentiment-analysis-using-python)
 - [Difference between sort() and sorted() in python](https://milindsoorya.site/blog/python-sorted-and-sort)
 - [Find unique elements in python list](https://milindsoorya.site/blog/find-unique-elements-python)
 - [CSS to ignore parent padding in 4 lines](https://milindsoorya.site/blog/css-to-ignore-parent-padding)
-- [The complete Anaconda cheatsheet](https://milindsoorya.site/blog/anaconda-cheatsheet)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
