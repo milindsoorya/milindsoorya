@@ -19,7 +19,7 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.site/
 - [How to open sublime text from the windows command line](https://milindsoorya.site/blog/how-to-open-sublime-text-from-the-windows-command-line)
 - [Mnist handwritten digit classification using CNN](https://milindsoorya.site/blog/handwritten-digit-classification-using-cnn)
 - [Sentiment analysis flask web app using python and NLTK](https://milindsoorya.site/blog/sentiment-analysis-using-python)
-- [Difference between sort() and sorted() in python](https://milindsoorya.site/blog/python-sorted-and-sort)
+- [Difference between sort&lpar;&rpar; and sorted&lpar;&rpar; in python](https://milindsoorya.site/blog/python-sorted-and-sort)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
