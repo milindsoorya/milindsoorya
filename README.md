@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.site/
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [What is web 3.0?](https://milindsoorya.site/blog/what-is-web-3)
 - [Add anaconda to right-click menu in windows](https://milindsoorya.site/blog/add-anaconda-to-right-click-menu-in-windows)
 - [How to open sublime text from the windows command line](https://milindsoorya.site/blog/how-to-open-sublime-text-from-the-windows-command-line)
 - [Mnist handwritten digit classification using CNN](https://milindsoorya.site/blog/handwritten-digit-classification-using-cnn)
 - [Sentiment analysis flask web app using python and NLTK](https://milindsoorya.site/blog/sentiment-analysis-using-python)
-- [Difference between sort&lpar;&rpar; and sorted&lpar;&rpar; in python](https://milindsoorya.site/blog/python-sorted-and-sort)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
