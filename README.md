@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.site/
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Data wrangling and classification on rock dataset](https://milindsoorya.com/blog/data-wrangling-and-classification-on-rock-dataset)
-- [What is web 3.0?](https://milindsoorya.com/blog/what-is-web-3)
-- [Add anaconda to right-click menu in windows](https://milindsoorya.com/blog/add-anaconda-to-right-click-menu-in-windows)
-- [How to open sublime text from the windows command line](https://milindsoorya.com/blog/how-to-open-sublime-text-from-the-windows-command-line)
-- [Mnist handwritten digit classification using CNN](https://milindsoorya.com/blog/handwritten-digit-classification-using-cnn)
+- [Data wrangling and classification on rock dataset](https://www.milindsoorya.com/blog/data-wrangling-and-classification-on-rock-dataset)
+- [What is web 3.0?](https://www.milindsoorya.com/blog/what-is-web-3)
+- [Add anaconda to right-click menu in windows](https://www.milindsoorya.com/blog/add-anaconda-to-right-click-menu-in-windows)
+- [How to open sublime text from the windows command line](https://www.milindsoorya.com/blog/how-to-open-sublime-text-from-the-windows-command-line)
+- [Mnist handwritten digit classification using CNN](https://www.milindsoorya.com/blog/handwritten-digit-classification-using-cnn)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
