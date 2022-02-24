@@ -4,9 +4,9 @@ Hey there 👋
 
 I’m Milind, a full-stack developer, creative coder and self-proclaimed blogger who specializes in front-end development. I make it my mission to learn new technologies and build websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://milindsoorya.site/)
+Want to know more about me? [Check out my portfolio.](https://milindsoorya.com/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/milindsoorya/milindsoorya)](https://milindsoorya.site/)
+[![Visits Badge](https://badges.pufler.dev/visits/milindsoorya/milindsoorya)](https://milindsoorya.com/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/milindsoorya)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/milindsoorya/)
 
@@ -84,7 +84,7 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.site/
 
 > ### Want to know how I made this README?
 >
-> Check out my [tutorial](https://milindsoorya.site/)!
+> Check out my [tutorial](https://milindsoorya.com/)!
 
 <!--
 **milindsoorya/milindsoorya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
