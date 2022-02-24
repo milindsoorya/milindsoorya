@@ -1,4 +1,4 @@
-<!--[![Milind's GitHub Banner](./assets/GitHubHeader.png)](https://milindsoorya.site)-->
+<!--[![Milind's GitHub Banner](./assets/GitHubHeader.png)](https://milindsoorya.com)-->
 
 Hey there 👋
 
