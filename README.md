@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.com/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Run Ubuntu on M1 Macbook Air using UTM](https://www.milindsoorya.com/blog/run-ubuntu-on-m1-macbook-air-using-utm)
 - [Data wrangling and classification on rock dataset](https://www.milindsoorya.com/blog/data-wrangling-and-classification-on-rock-dataset)
 - [What is web 3.0?](https://www.milindsoorya.com/blog/what-is-web-3)
 - [Add anaconda to right-click menu in windows](https://www.milindsoorya.com/blog/add-anaconda-to-right-click-menu-in-windows)
 - [How to open sublime text from the windows command line](https://www.milindsoorya.com/blog/how-to-open-sublime-text-from-the-windows-command-line)
-- [Mnist handwritten digit classification using CNN](https://www.milindsoorya.com/blog/handwritten-digit-classification-using-cnn)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
