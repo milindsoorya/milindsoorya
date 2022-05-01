@@ -15,7 +15,7 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.com/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical Review on “OpenPose - Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields”](https://www.milindsoorya.com/blog/blog/critical-review-on-openpose-realtime-multi-person-2d-pose-estimation-using-part-affinity-fields)
+- [OpenPose - Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://www.milindsoorya.com/blog/blog/critical-review-on-openpose-realtime-multi-person-2d-pose-estimation-using-part-affinity-fields)
 - [Run Ubuntu on M1 Macbook Air using UTM](https://www.milindsoorya.com/blog/blog/run-ubuntu-on-m1-macbook-air-using-utm)
 - [Authentication Flow with React Navigation v5](https://www.milindsoorya.com/blog/blog/authentication-flow-with-react-navigation-v5)
 - [Data wrangling and classification on rock dataset](https://www.milindsoorya.com/blog/blog/data-wrangling-and-classification-on-rock-dataset)
