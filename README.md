@@ -15,11 +15,11 @@ Want to know more about me? [Check out my portfolio.](https://milindsoorya.com/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Find the missing data percentage and count in pandas](https://www.milindsoorya.com/blog/blog/8-underrated-git-commands-every-programmer-should-know-not-the-usual-pull-push-add-commit copy)
 - [How to build a simple CNN based Image classifier using Keras](https://www.milindsoorya.com/blog/blog/how-to-build-a-simple-cnn-based-image-classifier-using-keras)
 - [Installing TensorFlow on M1 MacBook Air with GPU &lpar;Metal&rpar;](https://www.milindsoorya.com/blog/blog/installing-tensorflow-on-m1-macbook-air-with-gpu)
 - [OpenPose - Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://www.milindsoorya.com/blog/blog/critical-review-on-openpose-realtime-multi-person-2d-pose-estimation-using-part-affinity-fields)
 - [Run Ubuntu on M1 Macbook Air using UTM](https://www.milindsoorya.com/blog/blog/run-ubuntu-on-m1-macbook-air-using-utm)
-- [Authentication Flow with React Navigation v5](https://www.milindsoorya.com/blog/blog/authentication-flow-with-react-navigation-v5)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
